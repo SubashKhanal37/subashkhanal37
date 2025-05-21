@@ -15,14 +15,20 @@ I love building efficient, scalable web apps using Laravel, React, and Docker.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
----
-
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=subashkhanal37&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashkhanal37&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subashkhanal37&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=subashkhanal37&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=subashkhanal37&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashkhanal37&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
